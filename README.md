@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
@@ -22,7 +21,7 @@
 - ⚡ Fun fact: *Did you know... Not*.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.-brightgreen?style=for-the-badge" alt="Quote">
+  <img src="https://img.shields.io/badge/-The%20best%20way%20to%20get%20started%20is%20to%20quit%20talking%20and%20begin%20doing.-brightgreen?style=for-the-badge" alt="Quote">
 </p>
 
 ---
